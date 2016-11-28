@@ -1,2 +1,2 @@
 # lmage-processing
-report
+画像処理レポート
